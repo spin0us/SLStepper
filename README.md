@@ -12,4 +12,4 @@ You can specify the minimum, maximum, start and step values.
                                                   withValue:1 
                                                    withStep:1];
 
-![SLStepper screenshot](https://github.com/spin0us/SLStepper/example.png)
+![SLStepper screenshot](https://github.com/spin0us/SLStepper/raw/master/example.png)

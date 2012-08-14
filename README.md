@@ -5,9 +5,11 @@ You can specify the minimum, maximum, start and step values.
 
 ## Example
 
+```
 SLStepper *myStepper = [[SLStepper alloc] initWithFrame:CGRectMake(185.0, 6.0, 110.0, 30.0)
                                                 withMin:1
                                                 withMax:15 
                                               withValue:1 
                                                withStep:1];
+```
 

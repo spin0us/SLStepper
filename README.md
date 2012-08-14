@@ -1,6 +1,7 @@
 ## About these class
 
 This class is based on a `UISegmentedControl` in order to create a stepper control for iOS < 5.0.
+
 You can specify the minimum, maximum, start and step values.
 
 ## Example
